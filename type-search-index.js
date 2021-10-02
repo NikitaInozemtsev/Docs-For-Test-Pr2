@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ru.configuration","l":"Config"},{"p":"ru.model","l":"Item"},{"p":"ru.services","l":"ItemService"},{"p":"ru.controller","l":"MyController"},{"p":"ru.model","l":"Order"},{"p":"ru.services","l":"OrderService"},{"p":"ru","l":"RunApp"}];updateSearchResults();
